@@ -137,7 +137,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/ais_indy_hud_1_0_0.json
+[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-0.json
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Indy-HUD.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Indy-HUD/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Indy-HUD.svg?style=plastic
