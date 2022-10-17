@@ -28,9 +28,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/codeinfused/Indy-HUD">
-    <img src="images/albatross-logo-wide.png" alt="Logo" style="width:600px; max-width:80%;">
-  </a>
 
   <h3 align="center">Indy HUD by CodeInfused</h3>
 
@@ -42,36 +39,6 @@
     <a href="https://github.com/codeinfused/Indy-HUD/issues">Report Bug</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-albatross-hud">About the HUD</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#file-install">File Install</a></li>
-        <li><a href="#linking-elements">Linking Elements</a></li>
-        <li><a href="#activating-the-hud">Activating the HUD</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#learning-the-keys">Learning the Keys</a></li>
-        <li><a href="#changing-default-settings">Changing Default Settings</a></li>
-        <li><a href="#recommended-hud-colors">Recommended HUD Colors</a></li>
-        <li><a href="#grouping-fuel-types">Grouping Fuel Types</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
 
 
 
