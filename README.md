@@ -29,7 +29,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Indy HUD by CodeInfused</h3>
+  <h3 align="center">Indy HUD v1.1 by CodeInfused</h3>
 
   <p align="center">
     An augmented reality HUD for managing industry
@@ -72,6 +72,13 @@ _This programming board HUD is delivered by "json" import, a feature supported b
 That's it! Run the board now and enjoy.
 
 
+<!-- CHANGELOG -->
+## Changelog
+
+### v1.1
+Improvements to performance for larger factories with hundreds of industry units to help prevent cpu shutdown errors.
+
+
 <!-- USAGE -->
 ## Usage
 
@@ -104,7 +111,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-0.json
+[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-1.json
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Indy-HUD.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Indy-HUD/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Indy-HUD.svg?style=plastic
