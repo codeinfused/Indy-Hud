@@ -62,12 +62,11 @@ _This programming board HUD is delivered by "json" import, a feature supported b
 
 ### File Install
 
-1. Download the json file from this repo, (right-click this link and "Save link as") [ais_indy_hud][download-url]
-2. Open the json file in any text editor. Select all of the contents (CTRL+A to select all), and then copy (CTRL+C).
-3. In the game, you'll need to place a Programming Board at your factory.
-4. Right-click the programming board, go to "Advanced"
-5. Click "Paste Lua Configuration From Clipboard"
-6. In build mode, use the Link tool to link your construct's Core to the programming board.
+1. Download the json file from this repo, [ais_indy_hud][download-url]
+2. Select all of the file's contents (CTRL+A to select all), and then copy (CTRL+C).
+3. You'll need to place a Programming Board at your factory. This should be a fresh board (or re-placed to clear it).
+4. Right-click the programming board, go to "Advanced" > "Paste Lua Configuration From Clipboard"
+5. After pasting the json, go into build mode. Link your construct's Core to the programming board.
 
 That's it! Run the board now and enjoy.
 
