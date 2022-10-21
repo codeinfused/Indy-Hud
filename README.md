@@ -29,7 +29,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Indy HUD v1.1 by CodeInfused</h3>
+  <h3 align="center">Indy HUD v1.2 by CodeInfused</h3>
 
   <p align="center">
     An augmented reality HUD for managing industry
@@ -74,6 +74,18 @@ That's it! Run the board now and enjoy.
 <!-- CHANGELOG -->
 ## Changelog
 
+### v1.2
+- FIXED: initialization load bug for larger factories
+- Improved position of status box
+- Improved render performance when maxDist is lower and filters are applied
+- Reduced hover hitbox of distant units
+- Increased overall opacity
+- Added visual distance scaling of mini-boxes
+- Added recipe data to status detail view (optional)
+- Added containers to machine list (optional)
+- Added font size option (in Parameters)
+- Added opacity distance option (in Parameters)
+
 ### v1.1
 Improvements to performance for larger factories with hundreds of industry units to help prevent cpu shutdown errors.
 
@@ -110,7 +122,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-1.json
+[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-2.json
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Indy-HUD.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Indy-HUD/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Indy-HUD.svg?style=plastic
