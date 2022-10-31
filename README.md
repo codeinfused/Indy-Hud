@@ -74,6 +74,13 @@ That's it! Run the board now and enjoy.
 <!-- CHANGELOG -->
 ## Changelog
 
+### v1.3
+- Added DE and FR language translations for menus and machine states
+- Added a 3rd mode for Containers, "full" shows all names within range
+- Improved the foreground highlight of boxes being hovered on
+- Improved max machine load (no limit found yet)
+- Minor performance improvement
+
 ### v1.2
 - FIXED: initialization load bug for larger factories
 - Improved position of status box
