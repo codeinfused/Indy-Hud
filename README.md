@@ -77,7 +77,9 @@ That's it! Run the board now and enjoy.
 ### v1.3
 - Added DE and FR language translations for menus and machine states
 - Added a 3rd mode for Containers, "full" shows all names within range
+- Added a corner highlight on machines that are set to "run forever"
 - Improved the foreground highlight of boxes being hovered on
+- Improved maintain levels when pending
 - Improved max machine load (no limit found yet)
 - Minor performance improvement
 
