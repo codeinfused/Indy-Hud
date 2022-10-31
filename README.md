@@ -62,7 +62,7 @@ _This programming board HUD is delivered by "json" import, a feature supported b
 
 ### File Install
 
-1. Click this link to open the json file directly (it will be raw text) [json-indyhud-v1-1.json][download-url]
+1. Click this link to open the json file directly (it will be raw text) [json-indyhud-v1-3.json][download-url]
 2. Select all of the text contents (CTRL+A to select all), and then copy (CTRL+C).
 3. You'll need to place a Programming Board at your factory. This should be a fresh board (or re-placed to clear it).
 4. Right-click the programming board, go to "Advanced" > "Paste Lua Configuration From Clipboard"
@@ -122,7 +122,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-2.json
+[download-url]: https://github.com/codeinfused/Indy-HUD/raw/main/json-indyhud-v1-3.json
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Indy-HUD.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Indy-HUD/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Indy-HUD.svg?style=plastic
