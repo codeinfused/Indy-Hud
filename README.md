@@ -29,7 +29,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Indy HUD v1.2 by CodeInfused</h3>
+  <h3 align="center">Indy HUD v1.3 by CodeInfused</h3>
 
   <p align="center">
     An augmented reality HUD for managing industry
