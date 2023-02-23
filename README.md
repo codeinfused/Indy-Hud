@@ -66,7 +66,9 @@ _This programming board HUD is delivered by "json" import, a feature supported b
 2. Select all of the text contents (CTRL+A to select all), and then copy (CTRL+C).
 3. You'll need to place a Programming Board at your factory. This should be a fresh board (or re-placed to clear it).
 4. Right-click the programming board, go to "Advanced" > "Paste Lua Configuration From Clipboard"
-5. After doing "Paste Lua Config", go into build mode. Link your construct's Core to the programming board.
+5. After doing "Paste Lua Config", go into build mode. 
+6. Link your construct's Core to the programming board.
+7. Link your construct's schematic container to the programming board also.
 
 That's it! Run the board now and enjoy.
 
